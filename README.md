@@ -6,7 +6,7 @@ In this notebook, I will be visualizing and exploring these features in-depth us
 Then, I will demonstrate how to build models to solve this problem. Specifically, I will be using LightGBM and Neural Network models. I will train these models on the training data, and then finally, I will show how to make predictions on the test data using these trained models.
 
 # Data Description
-Download the dataset and paste it in the same directory of the file
+Download the dataset zip and unzip it in the same directory of the repo
 
 Dataset Link: https://www.kaggle.com/competitions/ieee-fraud-detection/data
 
